@@ -1,16 +1,19 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Yuanhang (Leo) Liu
+subtitle: Assistant Professor of Biomedical Informatics
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+### Current Position
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- Assistant Professor of Biomedical Informatics, Mayo Clinic, Rochester, MN (2022-present)
+- Principal Bioinformatician, Mayo Clinic, Rochester, MN (2022-present)
 
-What else do you need?
+### Education
 
-### My story
+- Ph.D. in Bioinformatics at UT Health San Antonio (2012 - 2017)
+- B.S. in Biotechnology at NanKai University (2008 - 2012)
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+### Editorial
+
+- Review Editor for Frontier in Genetics
