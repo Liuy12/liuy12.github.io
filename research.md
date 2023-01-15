@@ -3,6 +3,9 @@ layout: default
 title: Research highlights
 ---
 
+# Research highlights
+----------------------
+
 ### Spatial transcriptomics and single cell analysis (2020-present)
 
 Spatial transcriptomics enables the discovery of spatial organization of cell types, cell states, and biomarkers. I am involved in multiple research projects examining spatial patterns of gene expression based on 10x's Visium technology. 
