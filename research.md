@@ -26,14 +26,11 @@ I am co-I with Drs. Arthur Beyder & Gianrico Farrugia on a federal grant investi
 
 Benign breast disease (BBD), which includes non-proliferative, proliferative and proliferative lesions with atypia, is viewed as a nonobligate precursor stage in the development of breast cancer, and is associated with an increased risk of invasive BC, particularly in those with proliferative or atypical lesions. I am part of Mayo Clinic's BBD analytical team. Below are some projects that I am involved in.
 
-- Cell type deconvolution
-Bulk samples of heterogeneous mixtures only represent averaged expression levels. I am involved in evaluating strategies for accurate cell-type deconvolution for BBD FFPE RNA-seq samples.
+- Cell type deconvolution. Bulk samples of heterogeneous mixtures only represent averaged expression levels. I am involved in evaluating strategies for accurate cell-type deconvolution for BBD FFPE RNA-seq samples.
 
-- Genomics risk factors associated with BBD
-We performed high-coverage DNA sequencing and investigated gene-level mutation associations with breast cancer risk. 
+- Genomics risk factors associated with BBD. We performed high-coverage DNA sequencing and investigated gene-level mutation associations with breast cancer risk. 
 
-- Sequencing and bioinformatics considerations for FFPE tissues
-We evaluated DNA&RNA sequencing protocols tailored for FFPE tissues and recommended sequencing considerations and bioinformatics strategies for processing FFPE samples. 
+- Sequencing and bioinformatics considerations for FFPE tissues. We evaluated DNA&RNA sequencing protocols tailored for FFPE tissues and recommended sequencing considerations and bioinformatics strategies for processing FFPE samples. 
 
 ### CNV/SV detection and prioritization (2019-present)
 
@@ -45,10 +42,8 @@ As patient derived xenograft (PDX) models are increasingly used for preclinical 
 
 ### Differential analysis (2013-2017)
 
-- RNA-seq
-I developed an algorithm (XBSeq & XBSeq2), a differential expression analysis algorithm for RNA-seq data that takes non-exonic mapped reads into consideration.
+- RNA-seq. I developed an algorithm (XBSeq & XBSeq2), a differential expression analysis algorithm for RNA-seq data that takes non-exonic mapped reads into consideration.
 
-- MBDcap-seq
-A similar statistical model (MBDDiff) was applied to MBDcap-seq data for testing differential methylation levels of promoter regions.
+- MBDcap-seq. A similar statistical model (MBDDiff) was applied to MBDcap-seq data for testing differential methylation levels of promoter regions.
 
 For a list of all my publications & abstracts, you can view my google scholar profile [here](https://scholar.google.com/citations?user=KB7SiiwAAAAJ&hl=en)
