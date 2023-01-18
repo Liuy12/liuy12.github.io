@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Yuanhang (Leo) Liu
+title: Yuanhang Liu
 subtitle: Assistant Professor of Biomedical Informatics
 ---
 
